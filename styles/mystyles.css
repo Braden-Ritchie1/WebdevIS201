@@ -1,0 +1,63 @@
+body {
+    background-image: url('images/coolbackgroundimg.jpg');
+    height: auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: relative;
+    background-attachment: scroll;
+}
+
+.fa-instagram {
+    background: #2a2c2e;
+    color: white;
+  }
+
+.fa-facebook {
+    background: #2a2c2e;
+    color: white;
+  }
+
+  .footer {
+      padding-left: 15px;
+      font-size: 20px;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+.underline {
+    text-decoration: underline;
+    text-align: center;
+    font-style: normal;
+}
+
+.unorderlist2 {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+
+.lia {
+    display: block;
+    padding: 8px;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.lib {
+    float: left;
+  }
+
+      /* li a {
+    display: block;
+    padding: 8px;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    color: whitesmoke;
+  }
+
+  li a:hover {
+    background-color: black;
+} */

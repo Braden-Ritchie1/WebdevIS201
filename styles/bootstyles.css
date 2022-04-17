@@ -1,0 +1,52 @@
+.unorderlist {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    padding: 8px;
+    background-color: #333;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    color: aliceblue;
+  }
+
+  li a:hover {
+      background-color: #111;
+  }
+
+.tabBG {
+    background-image: url(../images/coolbackgroundimg.jpg);
+    height: auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: relative;
+    background-attachment: scroll;
+}
+
+.footer {
+    bottom: 5px;
+    height: 50px;
+    left: 5px;
+    right: 5px;
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    position: relative;
+}
+
+.footer2 {
+    padding-left: 15px;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
